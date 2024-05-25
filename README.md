@@ -8,7 +8,6 @@ YCEP 2024 Challenge Submission Template
 - [How to Make a Challenge](#how-to-make-a-challenge)
   - [Static Challenges](#static-challenges)
   - [Hosted Challenges](#hosted-challenges)
-    - [Service Types](#service-types)
 - [Packaging the Challenge](#packaging-the-challenge)
 - [Frequently Asked Questions](#frequently-asked-questions)
 
